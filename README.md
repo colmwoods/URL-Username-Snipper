@@ -6,9 +6,8 @@ With The Power Of The Terminal These Days It Is Used To Run Alot Of Applications
 
 To Run This Program From The CLI, Terminal You Must Type In Python snipper.py
 
-Example - ####
-         Python snipper.py
-####
+Example - 
+        #### Python snipper.py ####
 
 Your Output:
 You Are Looking For A Username On Which Application: 
