@@ -3,6 +3,7 @@ This URL Snipper Can Basically Optain A URL Given And Able To Find The Username 
 
 With The Power Of The Terminal These Days It Is Used To Run Alot Of Applications Including This Python Program.
 
+<Video URL>
 
 To Run This Program From The CLI, Terminal You Must Type In Python snipper.py
 
