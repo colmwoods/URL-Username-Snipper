@@ -5,3 +5,14 @@ With The Power Of The Terminal These Days It Is Used To Run Alot Of Applications
 
 <Video URL>
 
+To Run This Program From The CLI, Terminal You Must Type In
+
+Python snipper.py
+
+
+Your Output:
+You Are Looking For A Username On Which Application: 
+Here You Type In The Application You Are Trying To Get Such As Facebook. Misspelling The Application Will Cause The Program Not Find The Username.
+
+
+
