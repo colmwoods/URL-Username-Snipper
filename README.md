@@ -7,7 +7,7 @@ With The Power Of The Terminal These Days It Is Used To Run Alot Of Applications
 #### How To Download: 
 To Use This Program You Can Download It By Using This Command
 
-         git clone https://github.com/colmwoods/Word-Guessing-Game.git
+         git clone https://github.com/colmwoods/URL-Username-Snipper.git
 
 
 To Run This Program From The CLI, Terminal You Must Type In Python snipper.py
